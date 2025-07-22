@@ -1,3 +1,6 @@
+Reference Online video: 
+https://www.youtube.com/watch?v=p09yRj47kNM&pp=ygUZcHJvbXB0IGVuZ2luZWVyaW5nIGNvdXJzZQ%3D%3D
+
 MODULE 1 - START WRITING PROMPTS LIKE A PRO
 
 - Prompting is the process of providing specific instructions to a Gen AI tool to receive new information or to achieve a desired outcome on a task.
